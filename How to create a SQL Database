@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>How to Create Static Web App Documentation in Your GitHub Repository</title>
+    <title>How to Create a SQL Database </title>
     <style>
         body { font-family: Arial, sans-serif; margin: 2em; }
         h1 { color: #0078d4; }
@@ -13,10 +13,7 @@
 <body>
     <h1>How to Create a SQL Database</h1>
     <p>
-        Follow these steps to add Static Web App documentation to your GitHub repository:
-    </p>
-    <ol>
-        <li>
+
             <strong>Create a Documentation File:</strong>
             <ul>
                 <li>Add a new file named <code>STATIC_WEB_APP.md</code> or <code>docs/static-web-app.md</code> in your repository.</li>
